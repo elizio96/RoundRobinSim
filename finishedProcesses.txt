@@ -1,5 +1,25 @@
 Completed Processes:
 
+Process 0
+Finish time: 70 Time spent on ready: 0
+Process 2
+Finish time: 220 Time spent on ready: 0
+Process 1
+Finish time: 223 Time spent on ready: 0
+Process 3
+Finish time: 230 Time spent on ready: 0
+Process 4
+Finish time: 291 Time spent on ready: 0
+Process 5
+Finish time: 341 Time spent on ready: 0
+Process 6
+Finish time: 370 Time spent on ready: 0
+Process 7
+Finish time: 431 Time spent on ready: 0
+Process 8
+Finish time: 521 Time spent on ready: 0
+Process 9
+Finish time: 590 Time spent on ready: 0
 
-Average time spent on ready: nan
-Ending clock time: 0
+Average time spent on ready: 0
+Ending clock time: 593
