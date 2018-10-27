@@ -1,0 +1,5 @@
+Completed Processes:
+
+
+Average time spent on ready: nan
+Ending clock time: 0
